@@ -1,8 +1,8 @@
-# Hi, I'm Antek! 👋
+# Hi, I'm Antek! 
 
 I'm a dual-degree student pursuing a **B.Sc. in Computer Science** at the **University of Warsaw** and a **B.Eng. in Data Engineering and Analysis** at **Warsaw University of Technology**. My passion lies at the intersection of complex algorithms and machine learning.
 
-### 👨‍💻 About Me
+###  About Me
 *  **Double Degree**: Studying CS at the University of Warsaw (2025–2028) and Data Engineering at Warsaw University of Technology (2025–2029).
 *  **Competitive Programmer**: Finalist of **ICPC CERC 2025**, **AMPPZ** (2023, 2025), and the **Polish Olympiad in Informatics**.
 *  **Community**: Jury member for the **Polish Olympiad in Informatics** and experienced instructor in Competitive Programming and Mathematics.
