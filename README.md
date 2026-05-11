@@ -21,7 +21,6 @@ I'm a dual-degree student pursuing a **B.Sc. in Computer Science** at the **Univ
 ###  Competitive Programming Stats
 <div align="left">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Antoni_Iwanowski&theme=dark" height="220" alt="Codeforces Stats" />
-  <img src="https://leetcard.jacoblin.cool/AntekIwa?theme=dark&font=baloo" height="170" alt="LeetCode Stats" />
 </div>
 
 ### Contact & Socials
