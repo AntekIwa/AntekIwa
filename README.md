@@ -16,7 +16,7 @@ Below is a curated selection of my most notable projects categorized by their co
 
 #### Research & University Projects
 * **[Sentinel-2 PCA](https://github.com/AntekIwa/sentinel2-pca)**: Research project at Warsaw University of Technology.
-* **[Ski Resort Simulation (`wyciagi`)](https://github.com/AntekIwa/wyciagi)**: Object-Oriented Programming project at the University of Warsaw. Event-driven simulation of a ski resort modeled as a directed graph in Java using JUnit[cite: 1]. Implemented custom data structures like circular buffers and event queues from scratch.
+* **[Ski Resort Simulation (`wyciagi`)](https://github.com/AntekIwa/wyciagi)**: Object-Oriented Programming project at the University of Warsaw. Event-driven simulation of a ski resort modeled as a directed graph in Java using JUnit. Implemented custom data structures like circular buffers and event queues from scratch.
 * **[CitiBike Data Analysis](https://github.com/AntekIwa/citibike-data-analysis)**: Data Engineering passing project at Warsaw University of Technology.
 
 #### Personal Projects
