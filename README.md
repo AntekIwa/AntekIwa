@@ -3,7 +3,7 @@ I'm a dual-degree student pursuing a **B.Sc. in Computer Science** at the **Univ
 
 ### About Me
 * **Double Degree**: Studying CS at the University of Warsaw (2025–2028) and Data Engineering at Warsaw University of Technology (2025–2029).
-* **Competitive Programmer & Quant**: Global Finalist in the IMC Prosperity Trading Challenge (Top 7% worldwide, 13th in Poland). Finalist of ICPC CERC (High Honor)[cite: 1], AMPPZ (2023, 2025)[cite: 1], and the Polish Olympiad in Informatics (OI).
+* **Competitive Programmer & Quant**: Global Finalist in the IMC Prosperity Trading Challenge (Top 7% worldwide, 13th in Poland). Finalist of ICPC CERC (High Honor), AMPPZ (2023, 2025), and the Polish Olympiad in Informatics (OI).
 * **Jury OI & Educator**: Jury member for the Polish Olympiad in Informatics (OI), where I prepare solves, tests, and verify tasks for contests. Also an experienced instructor in Competitive Programming and Mathematics.
 * **ML Enthusiast**: Completed the Machine Learning Specialization by Stanford Online & Coursera, developing skills in area of LLMs and Transformers
 
